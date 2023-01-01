@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "body-parser": "^1.18.3",
-    "config": "^3.0.1",
+    "config": "^3.3.8",
     "express": "^4.16.4",
     "iconv-lite": "^0.5.1",
     "mongoose": "^5.9.4",
